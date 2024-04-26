@@ -1,0 +1,14 @@
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\ExplorandoClasses\bin\Debug\net8.0\ExplorandoClasses.exe
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\ExplorandoClasses\bin\Debug\net8.0\ExplorandoClasses.deps.json
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\ExplorandoClasses\bin\Debug\net8.0\ExplorandoClasses.runtimeconfig.json
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\ExplorandoClasses\bin\Debug\net8.0\ExplorandoClasses.dll
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\ExplorandoClasses\bin\Debug\net8.0\ExplorandoClasses.pdb
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\ExplorandoClasses\obj\Debug\net8.0\ExplorandoClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\ExplorandoClasses\obj\Debug\net8.0\ExplorandoClasses.AssemblyInfoInputs.cache
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\ExplorandoClasses\obj\Debug\net8.0\ExplorandoClasses.AssemblyInfo.cs
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\ExplorandoClasses\obj\Debug\net8.0\ExplorandoClasses.csproj.CoreCompileInputs.cache
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\ExplorandoClasses\obj\Debug\net8.0\ExplorandoClasses.dll
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\ExplorandoClasses\obj\Debug\net8.0\refint\ExplorandoClasses.dll
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\ExplorandoClasses\obj\Debug\net8.0\ExplorandoClasses.pdb
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\ExplorandoClasses\obj\Debug\net8.0\ExplorandoClasses.genruntimeconfig.cache
+D:\Gabriel\OneDrive - Cruzeiro do Sul Educacional - Acadêmico\DIO\.NET Developer\ExplorandoClasses\obj\Debug\net8.0\ref\ExplorandoClasses.dll
