@@ -7,7 +7,7 @@ namespace ExplorandoClasses.Models
 {
     public class Pessoa
     {
-        Pessoa(string nome, string sobrenome)
+        public Pessoa(string nome, string sobrenome)
         {
             Nome = nome;
             Sobrenome = sobrenome;

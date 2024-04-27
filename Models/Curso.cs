@@ -26,6 +26,12 @@ namespace ExplorandoClasses.Models
         public void ListarAlunos()
         {
             Console.WriteLine($"Alunos do curso de: {Nome}");
+            for(int count = 0; count < Alunos.Count; count++)
+            {
+                string texto = "N° " + count + " - " + Alunos[count].NomeCompleto;
+                Console.WriteLine(texto);
+            }
+
             foreach (Pessoa aluno in Alunos)
             {
                 Console.WriteLine(aluno.NomeCompleto);
